@@ -3,3 +3,7 @@
  you can use it by download it ,and open in androidstudio.if you use this project you should have a SDK named NDK and CMAKE
  in  you androidstuido.good luck!!!
  ## minst_app show
+ [the icon for app](https://github.com/ruoyuGao/minst_app_android/icon.png)
+ [the mainview](https://github.com/ruoyuGao/minst_app_android/predict_show.png)
+ [the view for wirte number](https://github.com/ruoyuGao/minst_app_android/sigview.png)
+[the  list in minst](https://github.com/ruoyuGao/minst_app_android/album.png)
