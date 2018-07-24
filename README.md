@@ -7,3 +7,4 @@
  [the mainview](https://github.com/ruoyuGao/minst_app_android/predict_show.png)
  [the view for wirte number](https://github.com/ruoyuGao/minst_app_android/sigview.png)
 [the  list in minst](https://github.com/ruoyuGao/minst_app_android/album.png)
+<img src="https://github.com/ruoyuGao/minst_app_android/icon.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
