@@ -1,10 +1,18 @@
-# minst_app
-## how to use it
+# Minst_app
+## How to use it
  you can use it by download it ,and open in androidstudio.if you use this project you should have a SDK named NDK and CMAKE
  in  you androidstuido.good luck!!!
- ## minst_app show
- [the icon for app](https://github.com/ruoyuGao/minst_app_android/icon.png)
- [the mainview](https://github.com/ruoyuGao/minst_app_android/predict_show.png)
- [the view for wirte number](https://github.com/ruoyuGao/minst_app_android/sigview.png)
-[the  list in minst](https://github.com/ruoyuGao/minst_app_android/album.png)
-<img src="https://github.com/ruoyuGao/minst_app_android/predict_show.png" width="100" height="250" alt="图片加载失败时，显示这段字"/>
+ ## Minst_app show
+ ### Icon
+ a cute icon society pig
+ <img src="https://github.com/ruoyuGao/minst_app_android/blob/master/icon.png" width="75" height="75" alt="图片加载失败时，显示这段字"/>
+ ### Main view
+ in this view wen can click the button in the center of view to predict the number.At the bottom of the view you can click the left one to go to sigvew to wirte number
+<img src="https://github.com/ruoyuGao/minst_app_android/blob/master/predict_show.png" width="150" height="450" alt="图片加载失败时，显示这段字"/>
+### Signature view
+in this view you can write something you like ,and use the save to save it in your photo draw album,and use remove to delete
+something you write in your view
+<img src="https://github.com/ruoyuGao/minst_app_android/blob/master/sigview.png" width="150" height="450" alt="图片加载失败时，显示这段字"/>
+### List view
+in this view ,you can chose a number which is in the minst dataset to make surr that you app can predict number by itself.
+<img src="https://github.com/ruoyuGao/minst_app_android/blob/master/album.png" width="150" height="450" alt="图片加载失败时，显示这段字"/>
