@@ -1,8 +1,8 @@
-# Minst_app
+# Mnist_app
 ## How to use it
  you can use it by download it ,and open in androidstudio.if you use this project you should have a SDK named NDK and CMAKE
  in  you androidstuido.good luck!!!
- ## Minst_app show
+ ## Mnist_app show
  ### Icon
  a cute icon society pig
  
@@ -20,6 +20,6 @@ something you write in your view
 <img src="https://github.com/ruoyuGao/minst_app_android/blob/master/sigview.png" width="216" height="384" alt="图片加载失败时，显示这段字"/>
 
 ### List view
-in this view ,you can chose a number which is in the minst dataset to make surr that you app can predict number by itself.
+in this view ,you can chose a number which is in the mnist dataset to make surr that you app can predict number by itself.
 
 <img src="https://github.com/ruoyuGao/minst_app_android/blob/master/album.png" width="216" height="384" alt="图片加载失败时，显示这段字"/>
